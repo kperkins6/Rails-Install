@@ -17,7 +17,12 @@ A basic tutorial on how to install the necessities for working with the Web Fram
 Coming soon
 
 ##Linux Installation <a name="linuxInstall"></a>
-Coming soon
+Installing Git on Linux is trivial: simply type the following into a terminal window. 
+Download 
+<pre>
+cd
+sudo apt-get install git
+</pre>
 
 ##Windows Installation <a name="windowsInstall"></a>
 Coming soon
